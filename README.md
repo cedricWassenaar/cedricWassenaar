@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cedricWassenaar
 - 👀 I’m interested in automation, robotics and all kinds of interesting stuff.
-- 🌱 I’m currently trying out webgl of p5js
+- 🥽 I’m currently trying out WebGL for fun.
